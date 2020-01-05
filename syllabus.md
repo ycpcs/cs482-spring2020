@@ -34,7 +34,7 @@ This course is an elective course for Computer Science majors. It is a continuat
 This semester (Spring 2020) will be a continuation of the work that was accomplished by the four CS481 Radio Telescope teams from the Fall.  Those teams began the redesign and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2019-2020 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
 
 There are currently five teams of 2-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The four teams are:<br>
-	* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React Native, JavaScript, Java)
+	* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React Native, JavaScript, Java)<br>
 	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java)<br>
 	* **Team Mercury:** Back-End Server and Database<br>
 	* **Team Jupiter:** Control Room Application (C#, .NET)<br>
