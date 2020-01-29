@@ -5,9 +5,9 @@ title: "Assignment 6: Milestone 4 (Final Presentation and Unveiling)"
 
 **Final Presentation/Unveiling:** Wednesday, May 6th, 5:00 - 7:00 pm (in conjunction with the Engineering Capstone Final Presentation/Demo) at John C. Rudy County Park
 
-**Final Self/Peer Evaluation:** Tuesday, May 12th, by 7:00 am via email to Professor Hake and Dr. Babcock.
+**Final Self/Peer Evaluation:** Saturday, May 9th, by 7:00 am via email to Professor Hake and Dr. Babcock.
 
-**Technical Report:** Wednesday, May 13th, by 7:00 am via Google Drive, and then in PDF form to Professor Hake and Dr. Babcock.
+**Technical Report:** Tuesday, May 12th, by 7:00 am via Google Drive, and then in PDF form to Professor Hake and Dr. Babcock.
 
 # Deliverables
 

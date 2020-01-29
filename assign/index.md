@@ -17,7 +17,7 @@ Assignment | Due
 [Assignment 3: Milestone 2](assign03.html) | Wednesday, 3-25-2020 (in class)<br>Mid-Term Peer Evaluations: Friday, 3-27-2020 by 7:00a
 [Assignment 4: Milestone 3](assign04.html) | Wednesday, 4-22-2020 (in class)
 [Assignment 5: E & CS Expo](assign05.html) | Thursday, 4-30-2020, Project Workspace, 2:00p to 6:00p<br>Posters due / printed / mounted by Wednesday, 4-29-2020
-[Assignment 6: Milestone 4](assign06.html) | Final Presentation & Unveiling: Wednesday, 5-6-2020, 5:00p-7:00p at John C. Rudy Park<br>Final Peer Evaluations: Tuesday, 5-12-2020 by 7:00a<br>Technical Reports: Wednesday, 5-13-2020 by Noon
+[Assignment 6: Milestone 4](assign06.html) | Final Presentation & Unveiling: Wednesday, 5-6-2020, 5:00p-7:00p at John C. Rudy Park<br>Final Peer Evaluations: Saturday, 5-9-2020 by 7:00a<br>Technical Reports: Tuesday, 5-12-2020 by Noon
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
