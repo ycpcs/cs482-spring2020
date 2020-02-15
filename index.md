@@ -17,29 +17,27 @@ All information about the course will be posted here.
 
 <!--
 
-* **May 13** &mdash; Final Technical Reports are now due Wednesday, May 15th, by Noon am on the Google Team Drive, and then emailed in PDF form to Professor Hake and Dr. Babcock.
+* **May 13** &mdash; Final Technical Reports are now due Wednesday, 5-13-20, by Noon am on the Google Team Drive.
 
-* **May 7** &mdash; Final Self/Peer Evaluations are due Tuesday, May 14th, by 7:00 am in PDF form via email to Professor Hake and Dr. Babcock.
+* **May 7** &mdash; Final Self/Peer Evaluations are due Saturday, 5-9-20, by 7:00 am in PDF form via email to Professor Hake.
 
-* **Apr 30** &mdash; The Final Presentation and Demo (MS4) for both CS Senior Design and Engineering Capstone will be Friday, 5-10-19, from 5:00p to 7:00p in KEC125, to be followed by a celebratory dinner at 7:30p at Wood Fire Italian Grill at the entrance to South York Plaza.
+* **Apr 30** &mdash; The Final Presentation and Demo (MS4) for both CS Senior Design and Engineering Capstone will be Wednesday, 5-6-20, from 5:00p to 7:00p at John Rudy County Park, to be followed by a celebratory dinner at 7:30p at Wood Fire Italian Grill, located at the upper entrance to South York Plaza.
 
-* **Apr 23** &mdash; Milestone 3 for both CS Senior Design and Engineering Capstone will be Thursday, 5-2-19, as part of the Engineering and Computer Science Expo.
+* **Apr 23** &mdash; Milestone 4 for both CS Senior Design and Engineering Capstone will be Thursday, 4-30-20, as part of the Engineering and Computer Science Expo.
 
-* **Apr 9** &mdash; Moved status report from Weds, 4-15-19 to Mon, 4-13-19 to accommodate Engineering Capstone MS2 on Weds, 4-15-19.
-
-* **Feb 20** &mdash; Moved status report from Weds, 2-20-19 to Mon, 2-25-19 due to snow
-
-* **Feb 3** &mdash; Updated the Milestone dates and times - please see the [Assignments page](assign/index.html) for the new dates
+* **Feb 15** &mdash; Milestone 3 presentation/demo on Wednesday, 4-29-20, in class.  Posters also due (printed and mounted).
 
 * **Feb 3** &mdash; Undergraduate Research Showcase (Friday, 4-5-2019, from 10:00 to Noon in Schmidt Library)
 
-* **Feb 3** &mdash; Project-Based Learning (PBL) Showcase (Friday, 2-22-2019, from 3:30 to 4:30 in YorkView Hall)
+* **Feb 15** &mdash; Milestone 2 presentation/demo on Wednesday, 4-1-20, in KEC 125 from 5:00 to 7:00.
 
-* **Feb 3** &mdash; ESOY Meeting and Radio Telescope Presentation (Monday, 2-18-2019, from 5:00 to 7:00 in YorkView Hall, w/dinner)
-
-* **Feb 1** &mdash; Moved the due date for assign01 (proposals) to Sunday, 2-3-2019 at 7:00 am.
+* **Feb 15** &mdash; Mid-Semester Self/Peer Evaluations are due Saturday, 3-28-20, by 7:00 am in PDF form via email to Professor Hake.
 
 -->
+
+* **Feb 15** &mdash; Milestone 1 presentation/demo on Wednesday, 2-26-20, in KEC 125 from 5:00 to 7:00.
+
+* **Feb 1** &mdash; Assign01 (proposals) due on Wednesday, 2-5-2019 by 7:00 am (present in class).
 
 * **Jan 22** &mdash; Welcome back!  The [Syllabus](syllabus.html) and [Assignments](assign/index.html) pages have a complete overview of the course and what you will be expected to do.
 
