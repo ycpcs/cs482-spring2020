@@ -25,7 +25,7 @@ All information about the course will be posted here.
 
 * **Apr 23** &mdash; Milestone 4 for both CS Senior Design and Engineering Capstone will be Thursday, 4-30-20, as part of the Engineering and Computer Science Expo.
 
-* **Feb 15** &mdash; Milestone 3 presentation/demo on Wednesday, 4-29-20, in class.  Posters also due (printed and mounted).
+* **Feb 15** &mdash; Milestone 3 presentation/demo on Wednesday, 4-22-20, in KEC 125 from 5:00 to 7:00.
 
 * **Feb 3** &mdash; Undergraduate Research Showcase (Friday, 4-5-2019, from 10:00 to Noon in Schmidt Library)
 
