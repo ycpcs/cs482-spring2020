@@ -18,7 +18,7 @@ In addition, you should document your individual contributions to the project.  
 
 Your second task is to document requirements to be addressed in [Milestone 3](assign04.html).  You should create a new milestone (i.e., for Milestone 3) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 3.
 
-Your third task is **Mid-Term Self/Peer Evaluation:** Friday, March 27th, by 7:00 am via email to Professor Hake and Dr. Babcock.
+Your third task is **Mid-Term Self/Peer Evaluation:** Saturday, March 28th, by 7:00 am via email to Professor Hake and Dr. Babcock.
 
 # Deliverables
 You will be working on all milestones in coordinatino with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
