@@ -7,7 +7,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 # Your task
 
-Your first task is to demonstrate your progress on your Milestone 2 requirements.  You or your group should be prepared to
+Your first task is to demonstrate your progress on your Milestone 3 requirements.  You or your group should be prepared to
 
 * Demonstrate a working implementation of features addressing the Milestone 3 requirements
 * Be prepared to discuss the design, implementation, and testing of these features
