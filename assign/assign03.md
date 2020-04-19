@@ -18,12 +18,12 @@ In addition, you should document your individual contributions to the project.  
 
 Your second task is to document requirements to be addressed in [Milestone 3](assign04.html).  You should create a new milestone (i.e., for Milestone 3) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 3.
 
-Your third task is **Mid-Term Self/Peer Evaluation:** Saturday, April 4th, by 7:00 am via email to Professor Hake.
+Your third task is **Midterm Self/Peer Evaluation:** Saturday, April 4th, by 7:00 am via email to Professor Hake.
 
 # Deliverables
-You will be working on all milestones in coordinatino with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
+You will be working on all milestones in coordination with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
 
-You will need to complete the **mid-term [self/peer evaluation](PeerReview.pdf) form**.  If you are working on an individual project, you can leave the sections where you would evaluate your teammates blank.  [Download the MS Word version](PeerReview.doc), fill it out, and submit in PDF format via email to Professor Hake.
+You will need to complete the **midterm [self/peer evaluation](PeerReview.pdf) form**.  If you are working on an individual project, you can leave the sections where you would evaluate your teammates blank.  [Download the MS Word version](PeerReview.docx), fill it out, and submit in PDF format via email to Professor Hake.
 
 There are no other specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 
