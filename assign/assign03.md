@@ -23,7 +23,7 @@ Your third task is **Midterm Self/Peer Evaluation:** Saturday, April 4th, by 7:0
 # Deliverables
 You will be working on all milestones in coordination with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
 
-You will need to complete the **midterm [self/peer evaluation](PeerReview.pdf) form**.  If you are working on an individual project, you can leave the sections where you would evaluate your teammates blank.  [Download the MS Word version](PeerReview.docx), fill it out, and submit in PDF format via email to Professor Hake.
+You will need to complete the **[Midterm Self/Peer Evaluation](PeerReview.pdf) form**.  If you are working on an individual project, you can leave the sections where you would evaluate your teammates blank.  [Download the MS Word version](PeerReview.docx), fill it out, and submit in PDF format via email to Professor Hake.
 
 There are no other specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 

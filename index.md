@@ -18,17 +18,17 @@ All information about the course will be posted here.
 <!--
 -->
 
-* **Apr 18** &mdash; Final Technical Reports and Team Posters are due Wednesday, 5-13-20, by Noon in PDF form via email to Professor Hake.
+* **Apr 18** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Wednesday, 5-13-20, by Noon in PDF form via email to Professor Hake.
 
-* **Apr 18** &mdash; Final [Self/Peer Evaluations](./assign/PeerReview.docx) are due Saturday, 5-9-20, by Noon in PDF form via email to Professor Hake.
+* **Apr 18** &mdash; [Final Self/Peer Evaluations](./assign/PeerReview.docx) are due Saturday, 5-9-20, by Noon in PDF form via email to Professor Hake.
 
-* **Apr 18** &mdash; The CS Senior Design Final Presentation and Demo (MS4) will be Wednesday, 5-6-20, from 5:00 to 7:00pm on-line on Zoom.  The Radio Telescope Engineering Capstone Final Presentation will on Friday, 5-8-20, from 5:00 to 7:00pm on-line on Zoom.
+* **Apr 18** &mdash; The CS Senior Design Final Presentation and Demo (MS4) will be Wednesday, 5-6-20, from 5:00 to 7:00pm on-line via Zoom.  The Radio Telescope Engineering Capstone Final Presentation and Demo will on Friday, 5-8-20, from 5:00 to 7:00pm on-line via Zoom.
 
-* **Mar 25** &mdash; Milestone 3 presentation/demo on Wednesday, 4-22-20, on-line on Zoom from 5:00 to 7:00pm.
+* **Mar 25** &mdash; Milestone 3 presentation/demo on Wednesday, 4-22-20, on-line via Zoom from 5:00 to 7:00pm.
 
-* **Mar 11** &mdash; Midterm [Self/Peer Evaluations](./assign/PeerReview.docx) are due Saturday, 4-4-20, by 7:00am in PDF form via email to Professor Hake.
+* **Mar 16** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerReview.docx) are due Saturday, 4-4-20, by 7:00am in PDF form via email to Professor Hake.
 
-* **Mar 11** &mdash; Milestone 2 presentation/demo on Wednesday, 4-1-20, on-line on Zoom from 5:00 to 7:00pm.
+* **Mar 16** &mdash; Milestone 2 presentation/demo on Wednesday, 4-1-20, on-line via Zoom from 5:00 to 7:00pm.
 
 * **Feb 15** &mdash; Milestone 1 presentation/demo on Wednesday, 2-26-20, in KEC 125 from 5:00 to 7:00pm.
 
