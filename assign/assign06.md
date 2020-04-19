@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Assignment 5: Milestone 4 (Final Presentation, Self/Peer evals, Posters, and Technical Reports)"
+title: "Assignment 6: Milestone 4 (Final Presentation, Self/Peer evals, Posters, and Technical Reports)"
 ---
 
-**Final Presentation:** Wednesday, May 6th, 5:00 - 7:00pm on-line via Zoom.
+**Final Presentation:** Wednesday, May 6th, 5:00 (7:00pm on-line via Zoom).
 
-**Final Self/Peer Evaluation:** Saturday, May 9th, by Noon am via email to Professor Hake.
+**Final Self/Peer Evaluation:** Saturday, May 9th (by Noon via email to Professor Hake).
 
-**Posters and Technical Reports:** Wednesday, May 13th, by Noon in your Google Drive and in PDF form via email to Professor Hake
+**Posters and Technical Reports:** Wednesday, May 13th (by Noon in your Google Drive and in PDF form via email to Professor Hake).
 
 # Deliverables
 
